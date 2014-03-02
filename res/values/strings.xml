@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HappyRoller</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_principal">Bienvenue dans l\'application HappyRoller !</string>
+    <string name="title_activity_one_post">OnePostActivity</string>
+    <string name="title_activity_reglement">ReglementActivity</string>
+    <string name="title_activity_partner">PartnerActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_photo_adapter">PhotoAdapterActivity</string>
+    <string name="title_activity_one_photo">OnePhotoActivity</string>
+    <string name="title_activity_gallerie">GallerieActivity</string>
+
+    <color name="bleu">#4BB5C1</color>
+    <color name="pourpre">#A000B2</color>
+
+    <string name="title_activity_album">AlbumActivity</string>
+    <string name="title_activity_read_me">ReadMeActivity</string>
+
+</resources>
