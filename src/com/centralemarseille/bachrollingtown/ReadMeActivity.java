@@ -19,7 +19,7 @@ public class ReadMeActivity extends Activity {
 		
 		StringBuilder strT = new StringBuilder("");
 		
-		strT.append("\n").append("Propriété intelectuelle : ").append("\n");
+		strT.append("\n").append("Propriété intelectuelle : ").append("\n").append("\n");
 		strT.append("L'application mobile présente dénommée HappyRoller, conçue dans un cadre pédagogique, a pour but de réalisation, la rediffusion de certaines données du site internet www.rollingtown.com sous la forme d'une application mobile.").append("\n");		
 		strT.append("Cette application utilise les données en libre accès du site internet www.rollingtown.com, les droits sur ces données reviennent donc aux propriétaires de ce dernier.").append("\n");
 		strT.append("L'architecture générale de cette application ainsi que le cahier des charges des fonctionnalités ont été proposés par Patrice Raby. La conception de l'application, l'implémentation des fonctions et des fonctionnalités ainsi que l'ergonomie sont la réalisation de Bach Phan Luong.").append("\n");
